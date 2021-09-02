@@ -1,0 +1,21 @@
+.userInfo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.headingTextPf{
+    font-size: 30px;
+    font-style: italic;
+    color: #6700ff;
+}
+
+.smallText{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.medTextHeading{
+    margin-top: 30px;
+    font-size: 20px;
+}

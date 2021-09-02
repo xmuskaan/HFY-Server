@@ -1,0 +1,43 @@
+.postCardContent{
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    justify-content: space-evenly;
+    margin-bottom:50px;
+    padding:20px;
+}
+
+.postHeader {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    align-content: stretch;
+    align-items: baseline;
+}
+
+.imageDiv{
+    margin-right: 20px;
+}
+
+.postBody{
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+.postButtons{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.likeButton > label{
+    margin-bottom:0px;
+    font-size: 15px;
+}
+
+.commentButton > label{
+    margin-bottom:0px;
+    font-size: 15px;
+}
+
